@@ -1,8 +1,8 @@
-##Python Api Challenge Instructions
+Python Api Challenge Instructions
 
-## Part 1: WeatherPy
 
-In this section, you'll create a Python script to visualize the weather of 500+ cities of varying distance from the equator. To do so, you'll use a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and your problem-solving skills to create a representative model of weather across cities.
+
+# Instructions: Part 1-WeatherPy
 
 The first requirement is to create a series of scatter plots to showcase the following relationships:
 
@@ -33,7 +33,7 @@ Your final notebook must:
 * Include a print log of each city as it's being processed, with the city number and city name.
 * Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
-### Part 2: VacationPy
+# Instructions: Part 2- VacationPy
 
 Now, let's use your skills working with weather data to plan future vacations. Use Jupyter-gmaps and the Google Places API for this part of the assignment.
 
